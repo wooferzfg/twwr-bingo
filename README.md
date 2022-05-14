@@ -1,4 +1,4 @@
-# TWWR Bingo
+# The Wind Waker Randomizer Bingo
 
 [Play TWWR Bingo](https://www.wooferzfg.me/twwr-bingo)
 
