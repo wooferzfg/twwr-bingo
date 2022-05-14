@@ -72,39 +72,39 @@ var bingoList = [
     ],
 
     [
+        { "name": "Open 9 Great Sea Chests", "types": ["great_sea"] },
         { "name": "Collect 10 Blue Chu Jelly", "types": ["blue_jelly"] },
         { "name": "Place 3 Different Items on Windfall Pedestals", "types": ["pedestals"] },
-        { "name": "Defeat 1 Boss", "types": ["boss", "dungeons"] },
     ],
 
     [
+        { "name": "Defeat 1 Boss", "types": ["boss", "dungeons"] },
         { "name": "Open 14 Dungeon Chests", "types": ["dungeon_chests", "dungeons"] },
         { "name": "Open 4 Chests in Submarines", "types": ["submarines"] },
-        { "name": "Defeat 2 Big Octos", "types": ["octos"] },
     ],
 
     [
+        { "name": "Defeat 2 Big Octos", "types": ["octos"] },
         { "name": "Collect 5 Knight's Crests", "types": ["spoils"] },
         { "name": "Enter 6 Warp Pots", "types": ["warp_pots", "dungeons"] },
         { "name": "Use Command Melody in 2 Dungeons", "types": ["dungeons"] },
+    ],
+
+    [
         { "name": "Collect 4 Dungeon Maps and Compasses", "types": ["maps_compasses", "dungeons"] },
-    ],
-
-    [
         { "name": "Open 6 Chests in Submarines", "types": ["submarines"] },
-        { "name": "Open 9 Great Sea Chests", "types": ["great_sea"] },
-        { "name": "Open 8 Chests on Lookout Platforms and Rafts", "types": ["lookout_platforms"] },
+        { "name": "Open 12 Great Sea Chests", "types": ["great_sea"] },
     ],
 
     [
+        { "name": "Open 8 Chests on Lookout Platforms and Rafts", "types": ["lookout_platforms"] },
         { "name": "Defeat 4 Big Octos", "types": ["octos"] },
         { "name": "Open 8 Chests in Secret Caves", "types": ["secret_caves"] },
-        { "name": "Collect 6 Small Keys and Big Keys", "types": ["keys", "dungeons"] },
     ],
 
     [
+        { "name": "Collect 6 Small Keys and Big Keys", "types": ["keys", "dungeons"] },
         { "name": "Place 4 Different Items on Windfall Pedestals", "types": ["pedestals"] },
-        { "name": "Open 12 Great Sea Chests", "types": ["great_sea"] },
         { "name": "Open 2 Miniboss Chests", "types": ["miniboss", "dungeons"] },
     ],
 
