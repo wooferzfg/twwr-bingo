@@ -41,7 +41,7 @@ var bingoList = (
             { "name": "Win 1 Item from the Auction" }
         ],
         [
-            { "name": "Open 6 Great Sea Chests", "types": ["great_sea"] },
+            { "name": "Open 6 Island Chests", "types": ["great_sea"] },
             { "name": "Collect 5 Golden Feathers", "types": ["spoils"] },
             { "name": "Collect Item from 3 Great Fairies", "types": ["fairies"] }
         ],
@@ -74,7 +74,7 @@ var bingoList = (
         ],
 
         [
-            { "name": "Open 9 Great Sea Chests", "types": ["great_sea"] },
+            { "name": "Open 9 Island Chests", "types": ["great_sea"] },
             { "name": "Collect 10 Blue Chu Jelly", "types": ["blue_jelly"] },
             { "name": "Place 3 Different Items on Windfall Pedestals", "types": ["pedestals"] }
         ],
@@ -95,7 +95,7 @@ var bingoList = (
         [
             { "name": "Collect 4 Dungeon Maps and Compasses", "types": ["maps_compasses", "dungeons"] },
             { "name": "Open 6 Chests in Submarines", "types": ["submarines"] },
-            { "name": "Open 12 Great Sea Chests", "types": ["great_sea"] }
+            { "name": "Open 12 Island Chests", "types": ["great_sea"] }
         ],
 
         [
