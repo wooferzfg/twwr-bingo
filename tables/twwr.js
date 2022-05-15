@@ -9,7 +9,7 @@ var bingoList = (
         ],
 
         [
-            { "name": "Fly a Seagull in 2 Sectors", "types": ["seagull"] },
+            { "name": "Fly a Seagull at 2 Islands", "types": ["seagull"] },
             { "name": "Collect an Item from 2 Minigames" },
             { "name": "Talk to 4 Old Man Ho Hos", "types": ["hoho"] }
         ],
@@ -31,7 +31,7 @@ var bingoList = (
         ],
 
         [
-            { "name": "Fly a Seagull in 4 Sectors", "types": ["seagull"] },
+            { "name": "Fly a Seagull at 4 Islands", "types": ["seagull"] },
             { "name": "Feed 10 Fishmen", "types": ["fishmen"] },
             { "name": "Collect 4 Blue Chu Jelly", "types": ["blue_jelly"] }
         ],
@@ -47,7 +47,7 @@ var bingoList = (
         ],
         [
             { "name": "Open 2 Chests in Submarines", "types": ["submarines"] },
-            { "name": "Fly a Seagull in 6 Sectors", "types": ["seagull"] },
+            { "name": "Fly a Seagull at 6 Islands", "types": ["seagull"] },
             { "name": "Talk to 6 Old Man Ho Hos", "types": ["hoho"] }
         ],
         [
