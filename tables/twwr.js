@@ -38,7 +38,7 @@ var bingoList = (
         [
             { "name": "Read 4 Letters", "types": ["letters"] },
             { "name": "Collect Item from 2 Great Fairies", "types": ["fairies"] },
-            { "name": "Win 1 Item from the Auction" }
+            { "name": "Win an Item from the Auction" }
         ],
         [
             { "name": "Open 6 Island Chests", "types": ["great_sea"] },
