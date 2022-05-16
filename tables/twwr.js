@@ -62,7 +62,7 @@ var bingoList = (
         ],
 
         [
-            { "name": "Enter 3 Warp Pots", "types": ["warp_pots", "dungeons"] },
+            { "name": "Enter 3 Dungeon Warp Pots", "types": ["warp_pots", "dungeons"] },
             { "name": "Water 6 Korok Trees", "types": ["korok_trees"] },
             { "name": "Open 8 Dungeon Chests", "types": ["dungeon_chests", "dungeons"] }
         ],
@@ -88,7 +88,7 @@ var bingoList = (
         [
             { "name": "Defeat 2 Big Octos", "types": ["octos"] },
             { "name": "Collect 5 Knight's Crests", "types": ["spoils"] },
-            { "name": "Enter 6 Warp Pots", "types": ["warp_pots", "dungeons"] },
+            { "name": "Enter 6 Dungeon Warp Pots", "types": ["warp_pots", "dungeons"] },
             { "name": "Use Command Melody in 2 Dungeons", "types": ["dungeons"] }
         ],
 
@@ -123,7 +123,7 @@ var bingoList = (
         ],
 
         [
-            { "name": "Enter 9 Warp Pots", "types": ["warp_pots", "dungeons"] },
+            { "name": "Enter 9 Dungeon Warp Pots", "types": ["warp_pots", "dungeons"] },
             { "name": "Collect 6 Dungeon Maps and Compasses", "types": ["maps_compasses", "dungeons"] },
             { "name": "Open 3 Miniboss Chests", "types": ["miniboss", "dungeons"] }
         ],
@@ -141,7 +141,7 @@ var bingoList = (
         ],
 
         [
-            { "name": "Enter 12 Warp Pots", "types": ["warp_pots", "dungeons"] },
+            { "name": "Enter 12 Dungeon Warp Pots", "types": ["warp_pots", "dungeons"] },
             { "name": "Defeat 4 Bosses", "types": ["boss", "dungeons"] },
             { "name": "Collect 8 Dungeon Maps and Compasses", "types": ["maps_compasses", "dungeons"] }
         ]
