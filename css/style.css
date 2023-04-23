@@ -294,7 +294,7 @@ th {
 
 #bingoPage #about_bingo {
 	float:right;
-	width:365px;
+	width:705px;
 }
 
 #boardList li {
@@ -342,7 +342,7 @@ th {
 	margin:0 auto;
 	overflow:auto;
 	padding:8px 0 8px 16px;
-	width:976px;
+	width:1316px;
 }
 
 .red	{ color:#fa5050; }
