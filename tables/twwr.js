@@ -1,6 +1,4 @@
 var bingoList = (
-
-    // This JSON array can be copy and pasted into Bingosync
     [
         [
             { "name": "Visit 3 Beedle Shops", "types": ["beedle"] },
